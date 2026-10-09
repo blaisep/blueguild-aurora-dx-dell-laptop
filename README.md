@@ -1,8 +1,8 @@
 # blueguild-aurora-dx-dell-laptop &nbsp; [![bluebuild build badge](https://github.com/blaisep/blueguild-aurora-dx-dell-laptop/actions/workflows/build.yml/badge.svg)](https://github.com/blaisep/blueguild-aurora-dx-dell-laptop/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
-
-After setup, it is recommended you update this README to describe your custom image.
+This repo was generated using the automatic settings at [BlueBuild docs](https://blue-build.org/how-to/setup)
+The goal is to have an image with emacs and other apps that are best installed using dnf.
+### TODO: add emacs to the package list
 
 ## Installation
 
